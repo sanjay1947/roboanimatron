@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/roboanimatron/static/css/main.f5f20028.css",
+    "main.js": "/roboanimatron/static/js/main.4ee8fc5f.js",
+    "static/media/SEGA.woff": "/roboanimatron/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/roboanimatron/index.html",
+    "main.f5f20028.css.map": "/roboanimatron/static/css/main.f5f20028.css.map",
+    "main.4ee8fc5f.js.map": "/roboanimatron/static/js/main.4ee8fc5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5f20028.css",
+    "static/js/main.4ee8fc5f.js"
+  ]
+}
